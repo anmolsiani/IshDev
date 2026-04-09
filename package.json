@@ -15,7 +15,7 @@
     "@react-three/fiber": "^9.5.0",
     "@splinetool/react-spline": "^4.1.0",
     "@splinetool/runtime": "^1.12.78",
-    "@studio-freight/lenis": "^1.0.42",
+    "lenis": "^1.1.18",
     "@types/gsap": "^1.20.2",
     "@types/three": "^0.183.1",
     "clsx": "^2.1.1",
